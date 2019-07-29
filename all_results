@@ -1,0 +1,104 @@
+|----------------------------------------------------------------------------|
+File : 324.lp
+
+Execution time :            0.00sec.
+
+Hightest capacity value:    18.0
+
+Hightest capacity link(s):  ['c31', 'c32']
+
+Number of link with Non-zero capacities:    14
+
+Transit nodes load :        {1: 39.0, 2: 39.0}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 939.lp
+
+Execution time :            0.02sec.
+
+Hightest capacity value:    104.0
+
+Hightest capacity link(s):  ['c92']
+
+Number of link with Non-zero capacities:    53
+
+Transit nodes load :        {1: 405.0, 2: 405.0, 3: 405.0}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 949.lp
+
+Execution time :            0.02sec.
+
+Hightest capacity value:    104.0
+
+Hightest capacity link(s):  ['c93']
+
+Number of link with Non-zero capacities:    65
+
+Transit nodes load :        {1: 304.0, 2: 303.0, 3: 304.0, 4: 304.0}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 959.lp
+
+Execution time :            0.04sec.
+
+Hightest capacity value:    68.0
+
+Hightest capacity link(s):  ['c92']
+
+Number of link with Non-zero capacities:    83
+
+Transit nodes load :        {1: 243.0, 2: 243.0, 3: 243.0, 4: 243.0, 5: 243.0}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 969.lp
+
+Execution time :            0.16sec.
+
+Hightest capacity value:    59.0
+
+Hightest capacity link(s):  ['d49', 'c92']
+
+Number of link with Non-zero capacities:    104
+
+Transit nodes load :        {1: 202.5, 2: 202.5, 3: 202.5, 4: 202.5, 5: 202.5, 6: 202.5}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 979.lp
+
+Execution time :            0.07sec.
+
+Hightest capacity value:    59.0
+
+Hightest capacity link(s):  ['c96']
+
+Number of link with Non-zero capacities:    112
+
+Transit nodes load :        {1: 173.0, 2: 174.0, 3: 173.5, 4: 173.5, 5: 173.5, 6: 174.0, 7: 173.5}
+|----------------------------------------------------------------------------|
+    
+
+|----------------------------------------------------------------------------|
+File : 989.lp
+
+Execution time :            0.08sec.
+
+Hightest capacity value:    46.0
+
+Hightest capacity link(s):  ['c97']
+
+Number of link with Non-zero capacities:    130
+
+Transit nodes load :        {1: 152.0, 2: 152.0, 3: 152.0, 4: 152.0, 5: 152.0, 6: 151.5, 7: 152.0, 8: 151.5}
+|----------------------------------------------------------------------------|
+
